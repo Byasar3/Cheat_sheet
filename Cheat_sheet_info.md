@@ -17,13 +17,15 @@
 |`..`|parent directory (the 'above' folder that the file/folder is in)|
 |`mkdir [directory name]`| makes a directory|
 |`touch [file name]`|creates a file|
+|`open`| opens a file|
+|`code .`|opens a file in VScode|
 
 - notes:
-    1. Creating a txt file is `.txt` at end of file name
+    1. Creating a txt file is `.txt`at end of file name
     2. Creating a markdown file is `.md` at end of file name
     3. **no white spaces in file names**
 
-    
+
 
 
 
