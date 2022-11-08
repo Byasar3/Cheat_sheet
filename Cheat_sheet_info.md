@@ -55,9 +55,11 @@ Git is installed and maintained on your local system. It is seperate from github
 GitHub is a hosting and sharing service for Git repositories. It is ☁️ based. 
 
 - First make a repository on GitHub:
->Profile -> Your repositories -> New -> Add name -> Create
-- Then copy the code 'push an existing repository from the command line'
+>Profile -> Your Repositories -> New -> Add name -> Create Repository
+- Then copy the code 'push an existing repository from the command line' **make sure its SSH**
 
 ![image of example of code to copy](GitHub_SSH_code_eg.png)
+- Paste this code into termninal of VScode, this should connect the local Git file to GitHub.
+- To then publish in GitHub, run the command `git push`
 
-
+## Markdown
