@@ -1,4 +1,4 @@
-# This is a ✨cheat sheet✨ for using terminal, git, github and markdown.
+# ✨Cheat Sheet✨ for using Terminal, Git, GitHub and Markdown.
 
 ## Terminal
 - Open terminal using cmd+spacebar and search terminal.
@@ -29,10 +29,35 @@
 
 
 - notes, tips and tricks:
-    1. Creating a txt file is `.txt` at end of file name
-    2. Creating a markdown file is `.md` at end of file name
-    3. **no white spaces in file names**
-    4. Clicking ↑ arrow on keyboard shows previous command. Continue clicking to go further back. Can click ↓ to move foward again to the command wanted.
-    5. Pressing command+l gives white space between lines.
+    1. > Creating a txt file is `.txt` at end of file name
+    2. > Creating a markdown file is `.md` at end of file name
+    3. > **no white spaces in file names**
+    4. >Clicking ↑ arrow on keyboard shows previous command. Continue clicking to go further back. Can click ↓ to move foward again to the command wanted.
+    5. >Pressing command+l gives white space between lines.
 
-    
+
+## Git
+
+Git is installed and maintained on your local system. It is seperate from github.
+
+- Once a file has been made and `code .` is executed and the file has been opened in VScode, open a new Terminal in VScode.
+- Using the terminal in VScode, there are a number of commands possible:
+
+
+| Command name | What it does |
+| ----------- | ----------- |
+|`git add .`|This command adds a change in the working directory to the stageing area. This does not save the changes made.|
+|`git commit -m"[text]"`|This command saves the changes made to the directory. [text] is a description of the changes made to the directory.|
+|`git status`|Tells you if there is anything to commit|
+|`git push`|This publishes/pushes everything you've commited to GitHub|
+
+## GitHub
+GitHub is a hosting and sharing service for Git repositories. It is ☁️ based. 
+
+- First make a repository on GitHub:
+>Profile -> Your repositories -> New -> Add name -> Create
+- Then copy the code 'push an existing repository from the command line'
+
+![image of example of code to copy](GitHub_SSH_code_eg.png)
+
+
