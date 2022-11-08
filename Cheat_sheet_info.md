@@ -63,3 +63,97 @@ GitHub is a hosting and sharing service for Git repositories. It is ☁️ based
 - To then publish in GitHub, run the command `git push`
 
 ## Markdown
+It's sort of an enhanced txt file, but not exactly html type advanced.
+
+### Syntax and examples:
+
+<br/>
+
+    Headings:
+    # H1
+    ## H2
+    ### H3
+    #### H4
+    ##### H5
+    ###### H6
+# H1 
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+<br/>
+
+    Bold:
+    **bold**
+**bold**
+
+    Italics:
+    *italics*
+*Italics*
+
+    Strike through
+    ~~strike~~
+~~Strike~~
+
+    Blockquote
+    >This is quote!
+>This is quote! 
+
+    Unordered List
+    - Text
+    - Text Again
+    - Text Yet again
+- Text
+- Text Again
+- Text Yet Again
+
+<br/>
+
+    Ordered Text
+    1. First
+    2. Second 
+    3. Third
+1. First
+2. Second
+3. Third
+
+<br/>
+
+    Code text
+    `here is some code`
+`here is some code`
+
+    Horizontal Lines
+    ---
+    
+---
+
+<br/>
+    
+    Link 
+    [Title](url)
+    [Google](www.google.com)
+[Google](www.gogole.com)
+
+
+    Images
+    ![Alt text](url or image.png/.jpeg)
+    ![Cute kitten](https://placebear.com/200/300 "Hover over text")
+![Two brown bears on some rocks](https://placebear.com/200/300 "Two brown bears on some rocks")
+
+    Table: 
+    | Syntax | Description |
+    | ----------- | ----------- |
+    | Header | Title |
+    | Paragraph | Text |
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+    Creating a breakline:
+    <br/>
+    This is sentence one <br/> This is sentence two
+This is sentence one <br/> This is sentence two
+
